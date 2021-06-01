@@ -1,6 +1,6 @@
 ### TWT_Python
 
-# 1
+# Notes I took while following along with some old Python Tech With Tim tutorials.
 
 # Variables and Data Types
 int 0
@@ -83,7 +83,24 @@ if x ==2:
     print('x = 2, y != 3')
 else:
   print('x != 2')
+  
+#Classes and objects
+
+x = 'string'
+y = 23
+
+class number()
+
+Whenever we create a variable it is stored as an object
+every datatype has its own class
+
+class number():
+def __init__(self):
+  self.var = num
+  
+def display(self, x)
+  print(x)
 
 
-
-
+num = number(23)
+num.display(num.var)
